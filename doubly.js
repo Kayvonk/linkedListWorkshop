@@ -106,13 +106,13 @@
   list.add(11);
   
   
-  list.printPretty();
-  console.log(list.getLength());
+//   list.printPretty();
+//   console.log(list.getLength());
   
-  console.log(list.findByValue(11));
+//   console.log(list.findByValue(11));
   list.pop();
   list.reverse()
   
-  list.printPretty();
-  console.log(list.getLength());
+//   list.printPretty();
+//   console.log(list.getLength());
   

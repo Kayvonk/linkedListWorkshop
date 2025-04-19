@@ -63,5 +63,5 @@ list.add(2);
 list.add(5);
 list.add(7);
 
-list.printPretty()
-console.log(list.getLength());
+// list.printPretty()
+// console.log(list.getLength());
